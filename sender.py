@@ -16,7 +16,7 @@ Closes connection'''
 import socket,os
 from tkinter import filedialog,Tk
 
-Server_host='192.168.31.120'
+Server_host='192.168.31.120'#add your ip using config tcpv4
 port=5001
 buffer_size=8192
 Separator='<SEPARATOR>'
